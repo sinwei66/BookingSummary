@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Booking Summary</string>
+    <string name="courtBooking">Booking Summary</string>
+    <string name="name">Name:</string>
+    <string name="id">Booking ID:</string>
+    <string name="date">Date:</string>
+    <string name="bookedDate">Booked Date:</string>
+    <string name="bookedTime">Booked Time:</string>
+    <string name="category">Category:</string>
+    <string name="court">Court:</string>
+    <string name="type">Type: Indoor</string>
+    <string name="charge">Charge: RM</string>
+    <string name="btnBack">Back</string>
+    <string name="btnPayment">Proceed To Payment</string>
+</resources>
